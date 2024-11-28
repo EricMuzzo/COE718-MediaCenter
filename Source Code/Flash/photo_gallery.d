@@ -1,0 +1,17 @@
+.\flash\photo_gallery.o: photo_gallery.c
+.\flash\photo_gallery.o: .\common\inc\LPC17xx.H
+.\flash\photo_gallery.o: .\common\inc\core_cm3.h
+.\flash\photo_gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\photo_gallery.o: .\common\inc\system_LPC17xx.h
+.\flash\photo_gallery.o: .\common\inc\LPC17xx.h
+.\flash\photo_gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\photo_gallery.o: GLCD.h
+.\flash\photo_gallery.o: LED.h
+.\flash\photo_gallery.o: KBD.h
+.\flash\photo_gallery.o: state.h
+.\flash\photo_gallery.o: .\Images\falcon9.h
+.\flash\photo_gallery.o: .\Images\starship.h
+.\flash\photo_gallery.o: .\Images\saturnv.h
+.\flash\photo_gallery.o: .\Images\arrow.c
+.\flash\photo_gallery.o: C:\Users\Eric\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\photo_gallery.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

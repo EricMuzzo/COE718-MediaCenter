@@ -1,0 +1,15 @@
+.\flash\game_center.o: game_center.c
+.\flash\game_center.o: .\common\inc\LPC17xx.H
+.\flash\game_center.o: .\common\inc\core_cm3.h
+.\flash\game_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\game_center.o: .\common\inc\system_LPC17xx.h
+.\flash\game_center.o: .\common\inc\LPC17xx.h
+.\flash\game_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\game_center.o: GLCD.h
+.\flash\game_center.o: LED.h
+.\flash\game_center.o: KBD.h
+.\flash\game_center.o: state.h
+.\flash\game_center.o: tictactoe.h
+.\flash\game_center.o: .\Images\arrow.c
+.\flash\game_center.o: C:\Users\Eric\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\game_center.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h

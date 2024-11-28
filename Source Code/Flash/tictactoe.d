@@ -1,0 +1,16 @@
+.\flash\tictactoe.o: tictactoe.c
+.\flash\tictactoe.o: .\common\inc\LPC17xx.H
+.\flash\tictactoe.o: .\common\inc\core_cm3.h
+.\flash\tictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\tictactoe.o: .\common\inc\system_LPC17xx.h
+.\flash\tictactoe.o: .\common\inc\LPC17xx.h
+.\flash\tictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\tictactoe.o: GLCD.h
+.\flash\tictactoe.o: LED.h
+.\flash\tictactoe.o: KBD.h
+.\flash\tictactoe.o: state.h
+.\flash\tictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\flash\tictactoe.o: C:\Users\Eric\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\tictactoe.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
+.\flash\tictactoe.o: .\Images\tictactoe_o.h
+.\flash\tictactoe.o: .\Images\tictactoe_x.h

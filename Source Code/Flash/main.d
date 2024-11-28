@@ -1,0 +1,15 @@
+.\flash\main.o: main.c
+.\flash\main.o: .\common\inc\LPC17xx.H
+.\flash\main.o: .\common\inc\core_cm3.h
+.\flash\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\main.o: .\common\inc\system_LPC17xx.h
+.\flash\main.o: .\common\inc\LPC17xx.h
+.\flash\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\main.o: GLCD.h
+.\flash\main.o: LED.h
+.\flash\main.o: KBD.h
+.\flash\main.o: state.h
+.\flash\main.o: menu.h
+.\flash\main.o: photo_gallery.h
+.\flash\main.o: audio_player.h
+.\flash\main.o: game_center.h

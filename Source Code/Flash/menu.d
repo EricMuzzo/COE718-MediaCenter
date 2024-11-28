@@ -1,0 +1,14 @@
+.\flash\menu.o: menu.c
+.\flash\menu.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\flash\menu.o: .\common\inc\LPC17xx.H
+.\flash\menu.o: .\common\inc\core_cm3.h
+.\flash\menu.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\flash\menu.o: .\common\inc\system_LPC17xx.h
+.\flash\menu.o: .\common\inc\LPC17xx.h
+.\flash\menu.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\flash\menu.o: GLCD.h
+.\flash\menu.o: LED.h
+.\flash\menu.o: KBD.h
+.\flash\menu.o: state.h
+.\flash\menu.o: C:\Users\Eric\AppData\Local\Arm\Packs\ARM\CMSIS\5.7.0\CMSIS\RTOS\RTX\INC\cmsis_os.h
+.\flash\menu.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
