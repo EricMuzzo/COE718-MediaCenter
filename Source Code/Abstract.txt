@@ -1,1 +1,5 @@
+Designed and developed by Eric Muzzo.
 
+The media player being developed in this project consists of several modules that interface with different physical components on the MCB1700 development board. The concepts and methodologies employed learned in the course were used to achieve a media center with a photo gallery, MP3 player, and a game center. Each of these core modules utilizes the LCD screen, and joystick on the development board. This report serves a cumulative summary of the media center project built in the lab, which includes the full design methodology and results.
+
+A custom state machine was used to control application state. These states are defined in state.h.
